@@ -1,3 +1,6 @@
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/35875/status-badges/code-health)](https://staging.codescene.io/projects/35875)
+
 # Overview
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/airbytehq/airbyte/Airbyte%20CI) ![License](https://img.shields.io/github/license/airbytehq/airbyte)
