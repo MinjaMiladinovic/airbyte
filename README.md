@@ -1,5 +1,4 @@
 
-[![CodeScene Code Health](https://staging.codescene.io/projects/35875/status-badges/code-health)](https://staging.codescene.io/projects/35875)
 
 # Overview
 
