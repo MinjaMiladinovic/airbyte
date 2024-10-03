@@ -75,3 +75,5 @@ Check out our [roadmap](docs/roadmap.md) to get informed on what we are currentl
 
 Airbyte is licensed under the MIT license. See the [LICENSE](docs/license.md) file for licensing information.
 
+
+[![CodeScene Code Health](https://codescene.io/projects/54051/status-badges/code-health?component-name=airbyte%2Fairbyte-protocol)](https://codescene.io/projects/54051/architecture/biomarkers?component=airbyte%2Fairbyte-protocol)
