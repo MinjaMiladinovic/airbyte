@@ -93,3 +93,6 @@ Airbyte is licensed under the MIT license. See the [LICENSE](docs/license.md) fi
 [![CodeScene System Mastery](https://staging.codescene.io/projects/35875/status-badges/system-mastery?component-name=airbyte%2Fairbyte-integrations)](https://staging.codescene.io/projects/35875/)
 
 [![CodeScene Code Health](https://staging.codescene.io/projects/35875/status-badges/code-health?component-name=airbyte%2Fairbyte-integrations)](https://staging.codescene.io/projects/35875/architecture/biomarkers?component=airbyte%2Fairbyte-integrations)
+
+
+[![CodeScene Code Health](https://staging.codescene.io/projects/35875/status-badges/code-health?component-name=airbyte%2FbuildSrc)](https://staging.codescene.io/projects/35875/architecture/biomarkers?component=airbyte%2FbuildSrc)
